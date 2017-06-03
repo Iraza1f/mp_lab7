@@ -32,6 +32,5 @@ int main()
     Singleton* r = Singleton::getInstance();
     cout << s << endl;
     cout << r << endl;
-
     return 0;
 }
