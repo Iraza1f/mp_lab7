@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1446667744 source:c:\users\user\desktop\mp_lab7\interpretator\main.cpp
+1496458340 source:c:\users\user\desktop\mp_lab7\interpretator\main.cpp
 	<iostream>
+	<string.h>
 
